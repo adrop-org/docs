@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 190" width="100%" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="15">
+  <text x="20" y="38" font-weight="700" fill="#222" font-size="17">Every $1.00 of a qualified view, demo split</text>
+  <rect x="20" y="60" width="644" height="46" fill="#F5C518"/>
+  <rect x="664" y="60" width="184" height="46" fill="#111111"/>
+  <rect x="848" y="60" width="92" height="46" fill="#FAFAF7" stroke="#111111" stroke-width="2"/>
+  <g text-anchor="middle" font-weight="700"><text x="342" y="89" fill="#111111">70¢ · the person who watched</text><text x="756" y="89" fill="#FAFAF7">20¢ · the app</text></g>
+  <text x="894" y="89" text-anchor="middle" fill="#222" font-weight="700">10¢</text>
+  <g fill="#555"><text x="20" y="140">The viewer is paid for attention, the app for the placement, Adrop for running the network. 70 / 20 / 10 is the demo setting.</text>
+  <text x="20" y="165">The split is configurable per network; the on-chain program enforces it, and no party can change it once a campaign is funded.</text></g>
+</svg>

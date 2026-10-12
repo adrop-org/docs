@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" width="100%" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="15">
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs>
+  <g fill="#FAFAF7" stroke="#111111" stroke-width="2">
+    <rect x="10" y="60" width="200" height="110" rx="12"/>
+    <rect x="255" y="60" width="200" height="110" rx="12"/>
+    <rect x="500" y="60" width="200" height="110" rx="12"/>
+    <rect x="745" y="60" width="200" height="110" rx="12"/>
+  </g>
+  <g fill="#222" text-anchor="middle">
+    <text x="110" y="52" font-weight="700">1 · Brief</text>
+    <text x="110" y="95">Creative, audience,</text><text x="110" y="117">price per view,</text><text x="110" y="139">budget, frequency cap</text>
+    <text x="355" y="52" font-weight="700">2 · Fund</text>
+    <text x="355" y="95">Budget goes into</text><text x="355" y="117">a campaign escrow.</text><text x="355" y="139">Unspent comes back.</text>
+    <text x="600" y="52" font-weight="700">3 · Deliver</text>
+    <text x="600" y="95">Verified humans see</text><text x="600" y="117">the ad in apps, games</text><text x="600" y="139">and wallets</text>
+    <text x="845" y="52" font-weight="700">4 · Prove and pay</text>
+    <text x="845" y="95">Each qualified view</text><text x="845" y="117">is paid on-chain,</text><text x="845" y="139">receipt per view</text>
+  </g>
+  <g stroke="#555" stroke-width="2" marker-end="url(#a)"><line x1="212" y1="115" x2="252" y2="115"/><line x1="457" y1="115" x2="497" y2="115"/><line x1="702" y1="115" x2="742" y2="115"/></g>
+  <text x="480" y="215" text-anchor="middle" fill="#555">Reporting: views delivered, distinct humans reached, spend, receipts. Counts and delivery, never addresses.</text>
+</svg>

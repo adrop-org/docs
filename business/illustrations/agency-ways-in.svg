@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 230" width="100%" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="15">
+  <defs><marker id="w" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs>
+  <g fill="#FAFAF7" stroke="#111111" stroke-width="2">
+    <rect x="10" y="40" width="270" height="90" rx="12"/>
+    <rect x="345" y="40" width="270" height="90" rx="12"/>
+    <rect x="680" y="40" width="270" height="90" rx="12"/>
+    <rect x="300" y="180" width="360" height="40" rx="12"/>
+  </g>
+  <g fill="#F5C518"><rect x="20" y="50" width="8" height="70" rx="4"/><rect x="355" y="50" width="8" height="70" rx="4"/><rect x="690" y="50" width="8" height="70" rx="4"/></g>
+  <g fill="#222" text-anchor="middle">
+    <text x="150" y="32" font-weight="700">Client without an app</text>
+    <text x="150" y="78">Buys reach on the apps</text><text x="150" y="100">already in the network</text>
+    <text x="485" y="32" font-weight="700">Client with an app</text>
+    <text x="485" y="78">Integrates the SDK, earns a share</text><text x="485" y="100">and runs its own campaigns</text>
+    <text x="820" y="32" font-weight="700">Agency with publishers</text>
+    <text x="820" y="78">Brings their apps in as hosts;</text><text x="820" y="100">more apps, more reach</text>
+    <text x="480" y="206" font-weight="700">The Adrop network: verified humans in every app</text>
+  </g>
+  <g fill="none" stroke="#555" stroke-width="2" marker-end="url(#w)">
+    <path d="M150,132 L150,160 L300,190" />
+    <path d="M485,132 L485,178"/>
+    <path d="M820,132 L820,160 L660,190"/>
+  </g>
+  <g fill="#555" font-size="13">
+    <text x="190" y="158">campaigns in</text>
+    <text x="498" y="160">campaigns in, views out</text>
+    <text x="700" y="158">apps in</text>
+  </g>
+</svg>
