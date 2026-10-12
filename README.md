@@ -4,6 +4,11 @@ The thinking behind [Adrop](https://adrop.sh), the ad network that pays the view
 decisions and the pitch deck. Code: [adrop-org/adrop](https://github.com/adrop-org/adrop). Developer docs:
 [docs.adrop.sh](https://docs.adrop.sh).
 
+> **Prototype.** Built for the Colosseum Crypto World's Fair (October 2026) on Solana devnet. Not for production use.
+> The payment architecture will change: today campaign money sits in an on-chain escrow program. The next design is under
+> research and may drop the escrow, with Adrop invoicing the agency and paying host apps and viewers itself. Interfaces, the
+> program and the splits may all change.
+
 | Folder | What is in it |
 |---|---|
 | `business/` | `business-plan.md` (market, customers, pricing, revenue model; draft, numbers come from the research notes) and the diagrams used with agencies (`illustrations/`) |
