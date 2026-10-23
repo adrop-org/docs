@@ -84,7 +84,7 @@ agency with three restricted-product clients asks for a pilot first, or World ID
 DeFi before Solana hosts reach five.
 
 ## Owner decision
-Pending. Next step: owner runs the first five interviews (3 hosts, 2 DeFi) with the script; quotes go to
+2026-10-21: recommendation accepted; Q4 2026–Q1 2027 targets in plan §6 (3 hosts, 2 DeFi tests, 1 agency pilot; Rome = 10 conversations, 5 meetings). Interviews before Rome. Earlier note: owner runs the first five interviews (3 hosts, 2 DeFi) with the script; quotes go to
 `docs/VALIDATION.md` (hq #3); R-08 fills the agency column.
 
 ## Sources (checked 2026-10-07)

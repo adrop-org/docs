@@ -1,6 +1,6 @@
 # R-01: How is advertiser money split today, and who should set Adrop's split?
 
-Date opened: 2026-10-06. Status: Open
+Date opened: 2026-10-06. Status: Done 2026-10-21 (owner decision below)
 Feeds: ADR on payout split (configurable protocol share, viewer/host split)
 
 ## Question
@@ -69,4 +69,4 @@ registry. C is dropped: advertisers buy a price per qualified view, nothing else
 What would change the answer: evidence that hosts refuse 20% at Adrop's price points.
 
 ## Owner decision
-Pending.
+2026-10-21: candidate B (both shares in `Config`). Protocol share **30% for now**; viewer 50%, host 20% (the §7.9 floors). The 70/20/10 of the hackathon stays a demo setting.
