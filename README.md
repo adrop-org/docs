@@ -1,6 +1,6 @@
 # Adrop docs
 
-The thinking behind [Adrop](https://adrop.sh), the ad network where you pay only for verified humans: business plan, research notes,
+The thinking behind [Adrop](https://adrop.sh), the ad network where you advertise to verified humans: business plan, research notes,
 decisions and the pitch deck. Code: [adrop-org/adrop](https://github.com/adrop-org/adrop). Developer docs:
 [docs.adrop.sh](https://docs.adrop.sh).
 
