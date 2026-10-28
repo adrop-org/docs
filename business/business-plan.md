@@ -292,8 +292,8 @@ three host integrations, and the owner's time until the first $10k/month (§7.11
 | D. Bootstrap to $10k/month | $0 | — | §7.11 says two advertisers and two hosts get there | slow without partner integrations; the owner alone does sales, code and ops |
 
 Suggested order: A now (one grant per integration), B if the hackathon result opens it, C only after the first paid campaign and
-with an entity, D as the floor. Numbers for the Rome lounge: "pre-seed, $250–400k, SAFE, use of funds partner integrations and
-first hires; not raising today, opening in Q1 2027 after the first paid campaigns". Owner 2026-10-21: accepted, order A → B → C, D as floor.
+with an entity, D as the floor. Numbers for the Rome lounge: "pre-seed, $500–600k (18 months), SAFE, use of funds audit, three developers,
+marketing, partner integrations; not raising today, opening in Q1 2027 after the first paid campaigns". Owner 2026-10-21: accepted, order A → B → C, D as floor. Owner 2026-10-28: raise $500–600k, Delaware C-corp to be opened.
 
 ## 10. Risks
 Re-ranked 2026-10-21 after R-20, ADR-0006 and ADR-0007; top first.
